@@ -36,7 +36,7 @@ simulated on Multisim 10.4 and Active HDL.
 
 ## State Diagram
    
-   ![alt text](https://github.com/pratikbhuran/Voting_Machine/blob/main/Images/voting-state-dia.png?raw=true)
+   ![alt text](https://github.com/Ishan2510/Digital-Voting-Machine/blob/main/Voting_Machine-main%20final/Voting_Machine-main/Voting_Machine-main/Images/state_diagram.png?raw=true)
 
 ## 2) Structural model
 It is made by adding an asynchronous reset up counter as its components. The number of counters added dpend upon the number of candidates to vote for.
